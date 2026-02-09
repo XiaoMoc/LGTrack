@@ -1,6 +1,5 @@
 # LGTrack
 The implementation for the paper [**Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness**]
-[Models & Raw Results]
 
 <p align="center">
   <img width="85%" src="assets/LGTrack.png" alt="LGTrack"/>
@@ -57,10 +56,12 @@ You can also modify paths by these two files:
 ```
 
 ### Training
+```
 python tracking/train.py --script lgtrack --config deit_tiny_patch16_224  --save_dir ./output --mode single
+```
 
 ### Testing
-Download the model weights from 
+Download the model weights from [Models & Raw Results]
 Put the downloaded weights on `<PATH_of_LGTrack>/output/checkpoints/train/lgtrack/deit_tiny_patch16_224`
 ```
 python tracking/test.py lgtrack deit_tiny_patch16_224 --dataset uav123 --threads 4 --num_gpus 1
