@@ -3,7 +3,7 @@ The implementation for the paper [**Layer-Guided UAV Tracking: Enhancing Efficie
 [Models & Raw Results]
 
 <p align="center">
-  <img width="85%" src="assets/LGTrack.png" alt="ORTrack"/>
+  <img width="85%" src="assets/LGTrack.png" alt="LGTrack"/>
 </p>
 
 ## Usage
