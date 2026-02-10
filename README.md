@@ -61,7 +61,6 @@ python tracking/train.py --script lgtrack --config deit_tiny_patch16_224  --save
 ```
 
 ### Testing
-Download the model weights from [Models & Raw Results]
 Put the downloaded weights on `<PATH_of_LGTrack>/output/checkpoints/train/lgtrack/deit_tiny_patch16_224`
 ```
 python tracking/test.py lgtrack deit_tiny_patch16_224 --dataset uav123 --threads 4 --num_gpus 1
