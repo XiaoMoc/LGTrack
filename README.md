@@ -2,7 +2,7 @@
 The implementation for the paper [**Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness**] on The Visual Computer
 
 <p align="center">
-  <img width="85%" src="assets/LGTrack.png" alt="LGTrack"/>
+  <img width="85%" src="LGTrack.png" alt="LGTrack"/>
 </p>
 
 ## Usage
