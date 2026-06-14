@@ -1,5 +1,5 @@
 # LGTrack
-The implementation for the paper [**Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness**] on The Visual Computer
+The implementation for the paper [**Layer-Guided UAV Tracking: Enhancing Efficiency and Occlusion Robustness**]
 
 <p align="center">
   <img width="85%" src="LGTrack.png" alt="LGTrack"/>
